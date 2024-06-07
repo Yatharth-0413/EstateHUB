@@ -4,6 +4,9 @@
 
 Estate-Hub is a full-stack real estate web application designed to help users find, list, and manage properties. The application includes a variety of features such as real-time messaging, notifications, and user authentication.
 
+![Example Image](/homepage.png)
+
+
 ## Features
 
 - **User Authentication:** Secure login and registration using JWT.
