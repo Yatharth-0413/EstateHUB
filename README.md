@@ -16,6 +16,14 @@ Estate-Hub is a full-stack real estate web application designed to help users fi
 - **Notifications:** Real-time notifications using Zustand.
 - **Responsive Design:** Fully responsive and mobile-friendly interface.
 
+## LISTPAGE
+![Example Image](https://github.com/Yatharth-0413/EstateHUB/blob/master/ListPage.png)
+## PROPERTY-DETAIL PAGE
+![Example Image](https://github.com/Yatharth-0413/EstateHUB/blob/master/PropertyDetail.png)
+## PROFILE PAGE
+![Example Image](https://github.com/Yatharth-0413/EstateHUB/blob/master/Profile.png)
+
+
 ## Tech Stack
 
 ### Frontend
